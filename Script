@@ -1,0 +1,2 @@
+script_key = getgenv().Sinister.Settings.LuarmorKey;
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4a672b85f7db2c8995b27185755cbed0.lua"))()
